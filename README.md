@@ -83,12 +83,13 @@ Your website must include a distinct section or page for each of the following t
 
 ## Assessment Rubric
 
-| Criteria                | Level 1 (Limited) | Level 2 (Developing) | Level 3 (Proficient) | Level 4 (Exemplary) |
-|-------------------------|-------------------|----------------------|----------------------|---------------------|
-| Concept Coverage        | Few concepts      | Most concepts        | All concepts         | All concepts + insight |
-| Interactive Examples    | Few working       | Most work            | All work well        | Flawless + creative |
-| HTML Structure          | Poor structure    | Basic structure      | Well-structured      | Excellent semantics |
-| CSS Styling            | Inconsistent      | Basic styling        | Visually appealing   | Professional design |
-| JavaScript Logic       | Errors present    | Basic functionality  | Clear, functional    | Elegant, efficient |
-| Readability & Comments | Few comments      | Some comments        | Good comments        | Comprehensive docs |
-| File Organization      | Disorganized      | Basic organization   | Logical structure    | Highly organized |
+| Criteria | Level 1 (Limited) | Level 2 (Developing) | Level 3 (Proficient) | Level 4 (Exemplary) |
+|----------|-------------------|----------------------|----------------------|---------------------|
+| **1. Concept Coverage** | Very few (0-3) required concepts addressed, or explanations missing/inaccurate/copied | Some (4-6) concepts addressed with basic/vague explanations, minor inaccuracies | All (8) concepts clearly addressed with accurate, concise explanations | All concepts addressed with exceptional clarity, depth, and insightful analysis |
+| **2. Interactive Examples** | Few/non-functional examples that don't demonstrate concepts | Some examples attempted but buggy/confusing/partial functionality | All examples implemented correctly and clearly illustrate concepts | Highly effective, engaging, intuitive examples with strong UX/polish |
+| **3. HTML Structure & Validity** | Significant validation errors, disorganized, lacks semantic tags | Some validation errors, basic structure, limited semantic tagging | Valid HTML5, good semantic tags (`<header>`, `<nav>`, etc.), logical organization | Flawless HTML5, exceptional semantic structure enhancing accessibility/maintainability |
+| **4. CSS Styling & Design** | Minimal styling, poor aesthetics/readability, inconsistent | Basic styling, some consistency, readability issues, limited visual hierarchy | Visually appealing, consistent design, good color/typography/spacing, basic responsiveness | Professional aesthetic, excellent detail, optimal readability, robust responsive design |
+| **5. JavaScript Logic** | Significant errors, non-functional, or copied without understanding | Logical flaws/bugs, partial functionality, basic understanding | All JS functions correctly, demonstrates clear understanding | Exceptionally clean/efficient/robust code, handles edge cases, advanced understanding |
+| **6. Readability & Comments** | Messy code, no comments, extremely difficult to follow | Inconsistent formatting, few/superficial comments, requires effort to understand | Well-formatted, consistent indentation/naming, clear comments where needed | Exemplary readability, meaningful names, comprehensive insightful comments |
+| **7. File Organization** | Disorganized, files scattered randomly, no logical structure | Basic organization, some misplaced files, inconsistent naming | Logical folder structure (`css/`, `js/`, `images/`), files correctly placed | Highly organized, professional structure, intuitive naming conventions |
+| **8. Deliverables & Submission** | Missing multiple deliverables or significantly incomplete submission | Missing one key deliverable or minor submission issues | All deliverables included and correctly formatted (`.zip`, `index.html`, `README.md`) | Flawless deliverables, exceptional README, demonstrates high professionalism |
